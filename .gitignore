@@ -1,0 +1,7 @@
+/sws6toolsdeploy
+/jre
+/var
+/target
+/config
+.idea/
+*.iml
